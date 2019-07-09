@@ -1,0 +1,3 @@
+How to test it
+
+LD_PRELOAD=$PWD/libinjection-so.so ./code-injection
